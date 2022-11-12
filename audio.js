@@ -1,4 +1,4 @@
-window.alert("Headphone laga lena sun ne ke pehle, There is something I wana dedicate to you.");
+window.alert("Headphone laga lena sun ne ke pehle, There is something I wana dedicate to you. Use Earphoens.");
 
 
 $(function()
